@@ -10,6 +10,7 @@
 ![Xcode 9.0+](https://img.shields.io/badge/Xcode-9.0%2B-blue.svg)
 ![Swift 4.0+](https://img.shields.io/badge/Swift-4.0%2B-orange.svg)
 
+Amazing animated activity indicator written in swift.
 
 ## Usage
 
