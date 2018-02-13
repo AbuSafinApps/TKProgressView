@@ -13,6 +13,7 @@
 		15DF40A42032E51C00C64CE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15DF40A32032E51C00C64CE3 /* Assets.xcassets */; };
 		15DF40A72032E51C00C64CE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 15DF40A52032E51C00C64CE3 /* LaunchScreen.storyboard */; };
 		15DF40AF2032E55E00C64CE3 /* TKProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15DF40AE2032E55D00C64CE3 /* TKProgressView.swift */; };
+		15DF40B12032F71900C64CE3 /* TKProgressView-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 15DF40B02032F71800C64CE3 /* TKProgressView-logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		15DF40A62032E51C00C64CE3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		15DF40A82032E51C00C64CE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		15DF40AE2032E55D00C64CE3 /* TKProgressView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TKProgressView.swift; sourceTree = "<group>"; };
+		15DF40B02032F71800C64CE3 /* TKProgressView-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "TKProgressView-logo.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		15DF40902032E51B00C64CE3 = {
 			isa = PBXGroup;
 			children = (
+				15DF40B02032F71800C64CE3 /* TKProgressView-logo.png */,
 				15DF409B2032E51C00C64CE3 /* TKProgressView */,
 				15DF409A2032E51C00C64CE3 /* Products */,
 			);
@@ -129,6 +132,7 @@
 				15DF40A72032E51C00C64CE3 /* LaunchScreen.storyboard in Resources */,
 				15DF40A42032E51C00C64CE3 /* Assets.xcassets in Resources */,
 				15DF40A22032E51C00C64CE3 /* Main.storyboard in Resources */,
+				15DF40B12032F71900C64CE3 /* TKProgressView-logo.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -280,6 +284,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = TKProgressView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ASA.TKProgressView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -294,6 +299,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = TKProgressView/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ASA.TKProgressView;
 				PRODUCT_NAME = "$(TARGET_NAME)";

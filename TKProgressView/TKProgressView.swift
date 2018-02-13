@@ -64,7 +64,7 @@ class TKProgressView: UIView {
 		layer.addSublayer(dot)
 	}
 	
-	func animateBalls() {
+    @objc func animateBalls() {
 		clear()
 		
 		for i in startIndex ..< numberOfBalls + startIndex {
