@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		15325A8420344DAC00EBC7F6 /* TKProgressView_Sample.gif in Resources */ = {isa = PBXBuildFile; fileRef = 15325A8320344DAC00EBC7F6 /* TKProgressView_Sample.gif */; };
 		15510E542033173F00831DFA /* TKProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15510E532033173F00831DFA /* TKProgressView.swift */; };
 		15DF409D2032E51C00C64CE3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15DF409C2032E51C00C64CE3 /* AppDelegate.swift */; };
 		15DF409F2032E51C00C64CE3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15DF409E2032E51C00C64CE3 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		15325A8320344DAC00EBC7F6 /* TKProgressView_Sample.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = TKProgressView_Sample.gif; sourceTree = "<group>"; };
 		15510E532033173F00831DFA /* TKProgressView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TKProgressView.swift; sourceTree = "<group>"; };
 		15DF40992032E51C00C64CE3 /* TKProgressView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TKProgressView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		15DF409C2032E51C00C64CE3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				15DF40B02032F71800C64CE3 /* TKProgressView-logo.png */,
+				15325A8320344DAC00EBC7F6 /* TKProgressView_Sample.gif */,
 				15DF409B2032E51C00C64CE3 /* TKProgressView */,
 				15DF409A2032E51C00C64CE3 /* Products */,
 			);
@@ -141,6 +144,7 @@
 				15DF40A42032E51C00C64CE3 /* Assets.xcassets in Resources */,
 				15DF40A22032E51C00C64CE3 /* Main.storyboard in Resources */,
 				15DF40B12032F71900C64CE3 /* TKProgressView-logo.png in Resources */,
+				15325A8420344DAC00EBC7F6 /* TKProgressView_Sample.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
