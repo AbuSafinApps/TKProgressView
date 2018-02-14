@@ -12,6 +12,15 @@
 
 TKProgressView is an amazing animated activity indicator and easy-to-use to display the progress of an ongoing task on iOS. 
 
+
+## Demo
+
+<p align="center">
+	<a href="https://github.com/toseefkhilji/TKProgressView/">
+        <img src="https://github.com/toseefkhilji/TKProgressView/blob/master/TKProgressView_Sample.gif" alt="Demo">
+    </a>
+</p>
+
 ## Usage
 
 ```swift
