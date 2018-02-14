@@ -69,7 +69,6 @@ pod 'TKProgressView'
 ## TODO
  - [ ]  More Customization
  - [ ]  Carthage Support
- - [ ]  Swift Package Manager
  - [ ]  Unit Test
  
  
