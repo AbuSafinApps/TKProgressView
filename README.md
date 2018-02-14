@@ -33,6 +33,14 @@ To stop it
 tkView.stopAnimating()
 ```
 
+## Customization
+
+To change animation speed 
+```swift
+
+// change speed
+tkview.speed = 0.5
+ ```
 
 ## Installation
 
@@ -50,7 +58,7 @@ pod 'TKProgressView'
 2. Done! 
 
 ## TODO
- - [ ]  Customization
+ - [ ]  More Customization
  - [ ]  Carthage Support
  - [ ]  Swift Package Manager
  - [ ]  Unit Test
