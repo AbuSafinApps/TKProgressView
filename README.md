@@ -71,6 +71,6 @@ pod 'TKProgressView'
  - [ ]  Carthage Support
  - [ ]  Unit Test
  
- 
+ Credits to Benjamin J. Dietzkis
 ## License
 TKProgressView is available under the MIT license. See the LICENSE file for more info.
